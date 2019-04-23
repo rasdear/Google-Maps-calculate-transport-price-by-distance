@@ -406,7 +406,7 @@
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYgr4Io1KMLmr6OZ5RrsimQk7c9V7RAww&callback=initMap">
+        src="https://maps.googleapis.com/maps/api/js?key=PUT YOUR GOOGLE API KEY HERE&callback=initMap">
 </script>
 
 </body>
