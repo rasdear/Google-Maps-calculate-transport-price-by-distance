@@ -101,7 +101,7 @@
 						var textbox1 = document.getElementById('textbox1');
 						textbox1.value = a.toFixed(2) +" " + "Baht";
 						dprice.value = a.toFixed(2);
-						in_kilo.value = distance_in_kilo;
+						in_kilo.value = distance_in_kilo +" " + "Km";
 					}
 					else{
 						/*
@@ -117,7 +117,7 @@
 						var textbox1 = document.getElementById('textbox1');
 						textbox1.value = a.toFixed(2) +" " + "Baht";
 						dprice.value = a.toFixed(2);
-						in_kilo.value = distance_in_kilo;
+						in_kilo.value = distance_in_kilo +" " + "Km";
 						
 					}
 
